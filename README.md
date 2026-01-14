@@ -43,7 +43,7 @@ The system is evaluated in **highway-env** under **sparse, normal, and dense tra
 | Double DQN    | 67.49            |
 | D3QN          | 65.74            |
 | QCOMBO        | 75.52            |
-| **MQLC ** | **120.41**       |
+| MQLC          | 120.41           |
 
 - **2.4× improvement** over standard DQN  
 - Higher lane-change success rate  
